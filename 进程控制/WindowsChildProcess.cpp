@@ -7,7 +7,7 @@
 using namespace std;
 int main()
 {
-	cout << "Hi,my name is ChenWen" << endl;
+	cout << "Hi,my name is Chris" << endl;
 	Sleep(3000);
 	system("pause");
 	return 0;
